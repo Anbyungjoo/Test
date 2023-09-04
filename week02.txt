@@ -1,5 +1,5 @@
 week02
--linux command : ls, ls -al, pwd, cd, .git, cd ..,
+-linux command : ls, ls -al, pwd, cd, .git, cd .., ehco"blah~blah~" >> README.md, cat README.md
 -git command : git init,
 git status,
 git config,
@@ -8,3 +8,5 @@ git config --global user.name "Your Name",
 git add week01.txt,
 git commit -m "v0",
 git log
+git checkout hashcode
+git checkout -
